@@ -67,7 +67,16 @@ Eighteenth-century China was the envy of contemporary Western intellectuals beca
 
 Knowledge, especially advanced knowledge, is always speciflised. By itself it procuces nothing. Yet a modern business, and not only the largest ones, may employ up to ten thousan dhighly knowledgebale peoplewho represent up to sixty different knowledge areas. Engineers of all sorts, designers, marketing experts, economists, statisticians, psychologists, planners, accountants, human-resources people - all working together in a joint venture.  None would be effective without the managed enterprise.
 
-There is no point asking which came first, the educational explosion of the last one hundred years or the management that put this knowledge to productive use
+There is no point asking which came first, the educational explosion of the last one hundred years or the management that put this knowledge to productive use ... the emergence of management has converted knowledge from social ornament and luxury into the true capital of the economy.
+
+## "Command-and-Control structure"
+
+Not many business leaders could have predicted this devleopment back in 1870, when large enterprises were first beginning to take shape.  The reason was not so much lack of foresight as lack of precedent.  At that time, the only large permanent organisation around was the army. (**** And the various religions / preisthood? ****).  Not surprisingly, therefore, its command-and-control structure became the model for the men who were putting together transcontinental railways, steel mills, modern banks and department stores.  The command model, with a very few at the top giving orders and a great many at the bottom obeying them, remained the norm for nearly one hundred years. But is was never as static as its longevity might suggest. On the contrary, it began to change almost at once, as specialised knowledge of all sorts poured into the enterprise.
+
+... By World War I the standard functions of a manufacturer had been developed: research and engineering, manufacturing, sales, finance and accounting, and a little later human resources (or personnel).
+
+
+Even more important for its impact on enterprise - and on the world economy in general - was another management-directed development that took place at this time. That was the application of management to manual work in the form of training. the child or wartime necessity, training has propelled the transformation of the world economy in the last forty years because it alloows low-wage countries to do soemthing that traditional economic theory had said could never be done: to become efficient  - and yet still low-wage - competitors almost overnight.
 
 ---
 
