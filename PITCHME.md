@@ -78,6 +78,36 @@ Not many business leaders could have predicted this devleopment back in 1870, wh
 
 Even more important for its impact on enterprise - and on the world economy in general - was another management-directed development that took place at this time. That was the application of management to manual work in the form of training. the child or wartime necessity, training has propelled the transformation of the world economy in the last forty years because it alloows low-wage countries to do soemthing that traditional economic theory had said could never be done: to become efficient  - and yet still low-wage - competitors almost overnight.
 
+Adam Smith reported that it tookseveral hundred years for a country or region to develop a tradition of labor and advertise in manual and managerial skills needed to produce and market a given product, wether cotton textiles or violins.
+
+During World War I, however, large numbers of unskilled, preindustrial people had to be made productive workers in practically no time. To meet this need, businesses in the United States and the United Kingdom begain to apply the theory of scientific management developed by Frederick W. Taylor between 1885 and 1910 to the systematic training of blue-collar workers on a large scale. Further developed in World War II, training was then picked up by the Japanese and, twenty years later, by the South Koreans who made it the basis for their countries' phenomenal development.
+
+During teh 1920s and 1930s, management was applied to many more areas and aspects of the manufacturing business. decentralization, for instance, arose to combine the advantages of bigness and the advantages of smallness within one enterprise.  Accounting went from "bookkeeping" to analysis and control. Planning grew out of the "Gantt charts" designed in 1917 and 1918 to plan war production; and so did the use of analytical logic and statistics, which employ quantification to convert experience and intuition into definitions, information, and diagnosis.  Marketing evolved as a result of applying management concetps to dstribution and selling.  Moreover, as early as the mid-1920s  and early 1930s, some American management 
+
+[the rest is a screenshot...]
+
+
+## A Philosophy of Management
+Essential Drucker, pp94
+
+What the business enterprise needs is a principle of management that will give full scope to individual strength _and responsibility_, and at the same time give common direction of vision and effort, establish team work, and harmonize the goals of the individual with the commonweal.
+
+The only principle that can do this is management by objectives _and self-control_.  It makes the commonweal of every manager.  (Is everyone a manager?)  It substitutes for control from the outside the stricter, and more exacting and more effective control from the inside. It motivates the manager to action not because somebody tells him to do something, or talks him into doing it, but because the objective tasks of his task demand it.  He acts not because somebody wants him to but because he himself decides that he has to - he acts, in other words, as a free man.
+
+## "The Task is to Lead People"
+Essential Drucker, pp61
+
+One does not "manage" people
+The task is to lead people
+And the goal is to make productive the specific strengths and knowledge of each individual.
+
+## "The Organisation That Fits the Task"
+Essential Drucker, pp57
+
+"The pioneers of management a century ago were right, _Organisational structure is needed._ The modern enterprise - whether business, civil service, university, hospital, large church or military - needs organisation just as any bioliogical organization beyond the amoeba needs structure. But the pioneers were wrong in their assumption that there is - or should be - one right organization. Just as there are a great number of different structures for biological organizations, so there are a number of orgsnizations for the social organism that is the modern institution."
+
+"Instead of searching for the right organisation, management needs to learn to look for, to develop, to test **the organisation that fits the task**"
+
 ---
 
 # Hierarchy
@@ -153,6 +183,8 @@ the peter principle - a concept in management developed by Laurence J. Peter, wh
 Confusing the chain of command with the chain of communication. Communication need not go through hierarchical channels - Creativity Inc.
 
 (Dig into the chain of command too - why is it needed? For synchronisation and co-ordination.)
+
+[C.f. The Drucker "Manager's Letter"]
 
 
 
