@@ -59,6 +59,15 @@ Rarely in human history has an institution emerged as quickly as management or h
 To be sure, the fundamental task of management remains the same: to make people capable of joint performance through common goals, common values, the right structure, and the training and development they need to perform and to respond to change. But the very meaning of this task has changed, if only because the performance of management has converted the workforce from one comprised of unskilled labourers to one of highly educated knowledge workers.
 
 Section: "the origins and development of management"
+On the threshold of World War I, a few thinkiners were just becoming aware of management's existence. But few people, even in the most advanced countries had anything to do with it. Now the largest single group in the labor force, more than one third of the total are people whom the US Bureau of the Census calls "managerial and professional."  Management has been the main agent of this transformation. Management explains why, for the first time in human history, we can employ large numbers of knowledgeable, skilled people in productive work. No earlier society could do this. Indeed no earlier society could support more than a handful of such people. Until quite recently, no one knew how to put people with different skills and knowledge together to achieve common goals.
+
+(THINK ABOUT THAT TWEET WHICH SAID HOW MANY FARMERS IT NEEDS TO SUPPORT A SINGLE SOLDIER / KNIGHT)
+
+Eighteenth-century China was the envy of contemporary Western intellectuals because it supplied more jobs to educated people than all of Eurpoe did - some twenty thousand per year. today, the United States, with about the same population China then had, graduates nearly a m,illion college students a year., few of whom have the slightest difficulty finding well-paid employment. Management enables us to employ them.
+
+Knowledge, especially advanced knowledge, is always speciflised. By itself it procuces nothing. Yet a modern business, and not only the largest ones, may employ up to ten thousan dhighly knowledgebale peoplewho represent up to sixty different knowledge areas. Engineers of all sorts, designers, marketing experts, economists, statisticians, psychologists, planners, accountants, human-resources people - all working together in a joint venture.  None would be effective without the managed enterprise.
+
+There is no point asking which came first, the educational explosion of the last one hundred years or the management that put this knowledge to productive use
 
 ---
 
