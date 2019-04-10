@@ -45,6 +45,8 @@ I'm not just envious of Netflix and Spotify and Steam
 Summarise DRUCKER
 Then bring in GOLDRATT
 
+---
+
 ## "They barely realise that they practice - or mispractice - management"
 
 The Essential Drucker, pp3-4. Chapter "management as social function and liberal art" (writing in ?????)
@@ -53,6 +55,7 @@ When karl marx was beginning work on Das kapital in the 1850s the phenomenon of 
 
 Rarely in human history has an institution emerged as quickly as management or had as great an impact so fast. In less than 150 years management has transformed the social and economic fabric of the worlds developed countries . It has created a global economy and set new rules for countries that would participate in that economy as equals. And it has itself been transformed. Few executives are aware of the tremendous impact management has had. Indeed, a good many are like M. Jourdain, the character in Moliere's Bourgeois Gentil-Homme, who did not know that he spoke prose. They barely realise that they practice - or mispractice - management.  As a result, they are ill prepared for the tremendous challenges that now confront them. the truly important challenges that managers face do not come from technology or politics; they do not originate outside of management and enterprise. They are problems caused by the very success of management itself.
 
+---
 
 ## "Make people capable of joint performance"
 
@@ -69,12 +72,13 @@ Knowledge, especially advanced knowledge, is always speciflised. By itself it pr
 
 There is no point asking which came first, the educational explosion of the last one hundred years or the management that put this knowledge to productive use ... the emergence of management has converted knowledge from social ornament and luxury into the true capital of the economy.
 
+---
+
 ## "Command-and-Control structure"
 
 Not many business leaders could have predicted this devleopment back in 1870, when large enterprises were first beginning to take shape.  The reason was not so much lack of foresight as lack of precedent.  At that time, the only large permanent organisation around was the army. (**** And the various religions / preisthood? ****).  Not surprisingly, therefore, its command-and-control structure became the model for the men who were putting together transcontinental railways, steel mills, modern banks and department stores.  The command model, with a very few at the top giving orders and a great many at the bottom obeying them, remained the norm for nearly one hundred years. But is was never as static as its longevity might suggest. On the contrary, it began to change almost at once, as specialised knowledge of all sorts poured into the enterprise.
 
 ... By World War I the standard functions of a manufacturer had been developed: research and engineering, manufacturing, sales, finance and accounting, and a little later human resources (or personnel).
-
 
 Even more important for its impact on enterprise - and on the world economy in general - was another management-directed development that took place at this time. That was the application of management to manual work in the form of training. the child or wartime necessity, training has propelled the transformation of the world economy in the last forty years because it alloows low-wage countries to do soemthing that traditional economic theory had said could never be done: to become efficient  - and yet still low-wage - competitors almost overnight.
 
@@ -86,6 +90,7 @@ During teh 1920s and 1930s, management was applied to many more areas and aspect
 
 [the rest is a screenshot...]
 
+---
 
 ## A Philosophy of Management
 Essential Drucker, pp94
@@ -94,6 +99,8 @@ What the business enterprise needs is a principle of management that will give f
 
 The only principle that can do this is management by objectives _and self-control_.  It makes the commonweal of every manager.  (Is everyone a manager?)  It substitutes for control from the outside the stricter, and more exacting and more effective control from the inside. It motivates the manager to action not because somebody tells him to do something, or talks him into doing it, but because the objective tasks of his task demand it.  He acts not because somebody wants him to but because he himself decides that he has to - he acts, in other words, as a free man.
 
+---
+
 ## "The Task is to Lead People"
 Essential Drucker, pp61
 
@@ -101,12 +108,26 @@ One does not "manage" people
 The task is to lead people
 And the goal is to make productive the specific strengths and knowledge of each individual.
 
+---
+
 ## "The Organisation That Fits the Task"
 Essential Drucker, pp57
 
 "The pioneers of management a century ago were right, _Organisational structure is needed._ The modern enterprise - whether business, civil service, university, hospital, large church or military - needs organisation just as any bioliogical organization beyond the amoeba needs structure. But the pioneers were wrong in their assumption that there is - or should be - one right organization. Just as there are a great number of different structures for biological organizations, so there are a number of orgsnizations for the social organism that is the modern institution."
 
 "Instead of searching for the right organisation, management needs to learn to look for, to develop, to test **the organisation that fits the task**"
+
+---
+
+### "The End of Hierarchy"
+Essential Drucker, pp. 55
+
+"one hears a great deal today about 'the end of hierarchy.' This is blatant nonsense. In any institution there has to be a final authority, that is 'a boss' - soneone who can make the final decisions and who can expect them to be obeyed. In a situation of common peril - and every institution is likely to encounter it sooner or later - survival of all depends on clear command. If the ship goes down, the captain does not call a meeting, the captain gives an order., must know exactly where to go and what to do, and do it without 'participation' and argument. 'Hierarchy,' and the unquestioning acceptance of it by everyone in the organization, is the only hope in a crisis.
+
+"Other situtaions within the same institution require deliberation. Others still require teamwork - and so on.
+
+""
+
 
 ---
 
