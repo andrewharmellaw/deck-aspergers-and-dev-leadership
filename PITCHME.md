@@ -224,19 +224,42 @@ ADVICE PROCESS
 TURN THE SHIP AROUND ("I intend to")
 Near Enemy!: Devolution theatre
 
+When you become senior you get given more to do.  It's because youve been promoted due to being good at your job.  Thats how things work in hierarcical structures.
 
-Delegation is a belief which is predicated on the existence of hierarchy.
+At some point you will be promoted to the point that you have so much work to do that it becomes impossible (if you're lucky you will realise this before you burn out).  The standard thing to do is delegate.  I was advised to do this.  "Get others to do your work" I was told.
 
-The hierarchy is the source of decisions.  If something is significant, then you need to go up the hierarchy to get that decision.
+but this was hard, and it sucked too.
 
-But is that necessary?  Because as you go up the hierarchy you lose CONTEXT.
+## What is _really_ happening here?
 
+It was hard because I had all the information needed to do the thing. Plus I was probably good at it.
+
+It sucked because the way to solve this first problem was to hand off my sucky jobs to people.  But thats a terrible thing.  It's a classic example of "shit rolling downhill".  To make my life better I make the lives of those below me worse.  Plus this reinforces the hierarchy.  I can;t delegate to those parallel to me. Thats organising, not delegating.  I can only give it to those over whom I have power.  By by delegating I'm saying "I ama making you do this."  Even if you are a good boss, and do all the right things about delegating (you took a course or read a book) you're still playing in the same system.
+
+What you need to do is _change the system_.
+
+## What _needs_ to happen instead?
+What we want is rapid and correct action.
+
+We want aligned action.
+
+This requires decisions and it requires context.
+
+And it requires _trust_ from everyone else.
+
+The problem is training (and experience) in these skills is frequently gate-kept for those in "managerial" positions. (Training will be(come) different - c.f. Reinvengint Organisations)
+
+## Reverse Delegation
+
+The idea conjoured up by the term "delegation" is one which is predicated on the existence of hierarchy.
+
+The hierarchy is the source of decisions.  It is the source of control. If something is significant, then you need to go up the hierarchy to get that decision.  The hierarchy's job is to keep things stable and aligned.
+
+But is that necessary?  Because as you go up the hierarchy you lose CONTEXT.  You have control, but you have slower, less contextual decisions.
 
 CONTROL
 
 DECISIONS
-
-Training will be(come) different - c.f. Reinvengint Organisations
 
 ---
 
@@ -244,7 +267,11 @@ This is what the writers of the Agile Manifesto had in mind.
 
 ---
 
-# Process and Control 
+WHAT ABOUT THE BIG DECISIONS? (c.f. Drucker and Netflix going to streaming)
+
+---
+
+# Process and Control (Kill Bureaucracy!)
 
 Note:
 Self-organisation beyond Sprint-Planning leads to chaos - what if we brought our whole selves to work?
