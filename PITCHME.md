@@ -188,6 +188,7 @@ we get impact.
 we get responsibility. 
 we get reimbursement
 we get a visible progression
+we get ***decisions***
 
 
 What do we need from hierarchy?
@@ -197,9 +198,10 @@ a broader view
 funding
 permission
 
+Why are these things there? What are they needed for?
 
 How does hierarchy fail?
-the peter principle - a concept in management developed by Laurence J. Peter, which observes that people in a hierarchy tend to rise to their "level of incompetence". In other words, an employee is promoted based on their success in previous jobs until they reach a level at which they are no longer competent, as skills in one job do not necessarily translate to another. 
+The Peter Principle - a concept in management developed by Laurence J. Peter, which observes that people in a hierarchy tend to rise to their "level of incompetence". In other words, an employee is promoted based on their success in previous jobs until they reach a level at which they are no longer competent, as skills in one job do not necessarily translate to another. 
 
 Confusing the chain of command with the chain of communication. Communication need not go through hierarchical channels - Creativity Inc.
 
@@ -207,7 +209,7 @@ Confusing the chain of command with the chain of communication. Communication ne
 
 [C.f. The Drucker "Manager's Letter"]
 
-
+What does Turn the Ship Around! say?
 
 ---
 
@@ -221,6 +223,24 @@ GET OUT OF THE WAY
 ADVICE PROCESS
 TURN THE SHIP AROUND ("I intend to")
 Near Enemy!: Devolution theatre
+
+
+Delegation is a belief which is predicated on the existence of hierarchy.
+
+The hierarchy is the source of decisions.  If something is significant, then you need to go up the hierarchy to get that decision.
+
+But is that necessary?  Because as you go up the hierarchy you lose CONTEXT.
+
+
+CONTROL
+
+DECISIONS
+
+Training will be(come) different - c.f. Reinvengint Organisations
+
+---
+
+This is what the writers of the Agile Manifesto had in mind.
 
 ---
 
