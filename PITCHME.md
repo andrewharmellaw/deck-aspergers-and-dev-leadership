@@ -3,23 +3,23 @@
 
 ---
 
-# A Moment of Clarity
+## Me: Before and After 40
 
 Note:
-THIS IS THE HIGHLY PERSOAL PIECE WHERE I SELL THE IDEAS THAT "WHAT YOU THINK YOU KNOW FROM COMMON SENSE" AND "WHAT EXPERTS TELL YOU IS THE CASE" MIGHT BOTH BE WRONG.
 I'm Aspergers.
 I was diagnosed at 40 - up until then I'd thought I was "normal"
-Suddenly I had a different lenses to look at everything through
+Suddenly I had a different lense to look at everything through
 I went first to what the cliches and "common knowledge" were about Aspergers - I was in denial. This couldn't be the case, could it?
 Then I went to the experts - the cliches must be wrong. But this was largely written by people who weren't Aspergers themselves.  At best, their diagnises were at a degree removed fom the lived experience, and the rationalisations, derived from the base observations jumped to conclusions and resulted in mischacterisations.
+
 EXAMPLES?
 
 ---
 
-# I _shouldn't_ be a good Dev Lead
+### The Worlds Worst Lead Developer / Manager
 
-Note:
 THIS IS THE BIT WHERE I TAKE THE TWO LENSES, AND PERMISSION TO LOOK THROUGH THEM, FROM THE FIRST PART AND SET UP THE MAIN PART
+
 Going by accepted wisdom, I shouldn't be a people person, and I *definitely* shouldn't be in charge of people; 
 I should be happiest coding, hidden away in a darkened room, communicating only by typing.
 Listening to the experts, I should be incapable of empathy, overly logical and uncreative. 
@@ -30,78 +30,98 @@ I've also learned that our instincts and an open, investigative mind can frequen
 
 Could the same apply to dev leadership?
 
-I'm NOT going to argue that being Aspergers makes you a better lead.
+I'm NOT going to argue that being Aspergers automatically makes you a better lead.
 I AM going to argue that taking a step back and comparing your lived experience against what everyone seems to be telling you is the case is INCREDIBLY informative, and can show you new paths
 
 In this session I’ll talk about the surprising things I’ve learned as I made my own way as a Lead Dev. I'll begin by setting the scene with a little history of management, before challenging three key notions and offering alternatives to replace them:
 
 ---
 
-# A (Secret) History Lesson
+## ***Dissolve Hierarchy, Then Recrystallize***
+
+---
+
+### What you see around you
 
 Note:
-I'm not just making all this stuff up. I did my research too
-I'm not just envious of Netflix and Spotify and Steam
-Summarise DRUCKER
-Then bring in GOLDRATT
+Red organisations: ...
 
 ---
 
-## "They barely realise that they practice - or mispractice - management"
+### (History)
 
-The Essential Drucker, pp3-4. Chapter "management as social function and liberal art" (writing in ?????)
-
-When karl marx was beginning work on Das kapital in the 1850s the phenomenon of management was unknown. So where the enterprises that managers run. The largest manufacturing company around was a manchester Cotton mill employing fewer than three hundred people and owned by Marx's friend and collaborator Freidrich Engels. And in Engel's Mill - one of the most profitable businesses of its day - there were no "managers", only "charge hands" who, themselves workers, enforced discipline over a handful of fellow "proletarians".
-
-Rarely in human history has an institution emerged as quickly as management or had as great an impact so fast. In less than 150 years management has transformed the social and economic fabric of the worlds developed countries . It has created a global economy and set new rules for countries that would participate in that economy as equals. And it has itself been transformed. Few executives are aware of the tremendous impact management has had. Indeed, a good many are like M. Jourdain, the character in Moliere's Bourgeois Gentil-Homme, who did not know that he spoke prose. They barely realise that they practice - or mispractice - management.  As a result, they are ill prepared for the tremendous challenges that now confront them. the truly important challenges that managers face do not come from technology or politics; they do not originate outside of management and enterprise. They are problems caused by the very success of management itself.
+Note:
+History / Facts
 
 ---
 
-## "Make people capable of joint performance"
+#### "They barely realise that they practice - or mispractice - management"
 
-To be sure, the fundamental task of management remains the same: to make people capable of joint performance through common goals, common values, the right structure, and the training and development they need to perform and to respond to change. But the very meaning of this task has changed, if only because the performance of management has converted the workforce from one comprised of unskilled labourers to one of highly educated knowledge workers.
+Note:
+The Essential Drucker, pp3-4. Chapter "management as social function and liberal art" (writing in ????)
 
-Section: "the origins and development of management"
-On the threshold of World War I, a few thinkiners were just becoming aware of management's existence. But few people, even in the most advanced countries had anything to do with it. Now the largest single group in the labor force, more than one third of the total are people whom the US Bureau of the Census calls "managerial and professional."  Management has been the main agent of this transformation. Management explains why, for the first time in human history, we can employ large numbers of knowledgeable, skilled people in productive work. No earlier society could do this. Indeed no earlier society could support more than a handful of such people. Until quite recently, no one knew how to put people with different skills and knowledge together to achieve common goals.
+[I]n the 1850s the phenomenon of management was unknown. So were the enterprises that managers run. The largest manufacturing company around was a Manchester Cotton mill employing fewer than three hundred people [...]. 
 
-(THINK ABOUT THAT TWEET WHICH SAID HOW MANY FARMERS IT NEEDS TO SUPPORT A SINGLE SOLDIER / KNIGHT)
-
-Eighteenth-century China was the envy of contemporary Western intellectuals because it supplied more jobs to educated people than all of Eurpoe did - some twenty thousand per year. today, the United States, with about the same population China then had, graduates nearly a m,illion college students a year., few of whom have the slightest difficulty finding well-paid employment. Management enables us to employ them.
-
-Knowledge, especially advanced knowledge, is always speciflised. By itself it procuces nothing. Yet a modern business, and not only the largest ones, may employ up to ten thousan dhighly knowledgebale peoplewho represent up to sixty different knowledge areas. Engineers of all sorts, designers, marketing experts, economists, statisticians, psychologists, planners, accountants, human-resources people - all working together in a joint venture.  None would be effective without the managed enterprise.
-
-There is no point asking which came first, the educational explosion of the last one hundred years or the management that put this knowledge to productive use ... the emergence of management has converted knowledge from social ornament and luxury into the true capital of the economy.
+Rarely in human history has an institution emerged as quickly as management or had as great an impact so fast. [Yet f]ew executives are aware of the tremendous impact management has had. 
+[...] They barely realise that they practice - or mispractice - management.  
+[And] They are [ill prepared for the] problems caused by the very success of management itself.
 
 ---
 
-## "Command-and-Control structure"
+---
 
-Not many business leaders could have predicted this devleopment back in 1870, when large enterprises were first beginning to take shape.  The reason was not so much lack of foresight as lack of precedent.  At that time, the only large permanent organisation around was the army. (**** And the various religions / preisthood? ****).  Not surprisingly, therefore, its command-and-control structure became the model for the men who were putting together transcontinental railways, steel mills, modern banks and department stores.  The command model, with a very few at the top giving orders and a great many at the bottom obeying them, remained the norm for nearly one hundred years. But is was never as static as its longevity might suggest. On the contrary, it began to change almost at once, as specialised knowledge of all sorts poured into the enterprise.
+#### "Command-and-Control structure"
+
+Note:
+GO THROUGH THIS SLIDE AND REDUCE IT.
+MOVE THINGS WHICH AREN'T HIERARCHY OUT TO OTHER SECTIONS.
+
+Drucker:
+
+"Not many business leaders could have predicted this devleopment back in 1870, when large enterprises were first beginning to take shape.  The reason was not so much lack of foresight as lack of precedent.  At that time, the only large permanent organisation around was the army. (**** And the various religions / preisthoods? ****).  Not surprisingly, therefore, its command-and-control structure became the model for the men who were putting together transcontinental railways, steel mills, modern banks and department stores.  The command model, with a very few at the top giving orders and a great many at the bottom obeying them, remained the norm for nearly one hundred years. But is was never as static as its longevity might suggest. On the contrary, it began to change almost at once, as specialised knowledge of all sorts poured into the enterprise.
 
 ... By World War I the standard functions of a manufacturer had been developed: research and engineering, manufacturing, sales, finance and accounting, and a little later human resources (or personnel).
 
 Even more important for its impact on enterprise - and on the world economy in general - was another management-directed development that took place at this time. That was the application of management to manual work in the form of training. the child or wartime necessity, training has propelled the transformation of the world economy in the last forty years because it alloows low-wage countries to do soemthing that traditional economic theory had said could never be done: to become efficient  - and yet still low-wage - competitors almost overnight.
 
-Adam Smith reported that it tookseveral hundred years for a country or region to develop a tradition of labor and advertise in manual and managerial skills needed to produce and market a given product, wether cotton textiles or violins.
+Adam Smith reported that it took several hundred years for a country or region to develop a tradition of labor and advertise in manual and managerial skills needed to produce and market a given product, whether cotton textiles or violins.
 
 During World War I, however, large numbers of unskilled, preindustrial people had to be made productive workers in practically no time. To meet this need, businesses in the United States and the United Kingdom begain to apply the theory of scientific management developed by Frederick W. Taylor between 1885 and 1910 to the systematic training of blue-collar workers on a large scale. Further developed in World War II, training was then picked up by the Japanese and, twenty years later, by the South Koreans who made it the basis for their countries' phenomenal development.
 
-During teh 1920s and 1930s, management was applied to many more areas and aspects of the manufacturing business. decentralization, for instance, arose to combine the advantages of bigness and the advantages of smallness within one enterprise.  Accounting went from "bookkeeping" to analysis and control. Planning grew out of the "Gantt charts" designed in 1917 and 1918 to plan war production; and so did the use of analytical logic and statistics, which employ quantification to convert experience and intuition into definitions, information, and diagnosis.  Marketing evolved as a result of applying management concetps to dstribution and selling.  Moreover, as early as the mid-1920s  and early 1930s, some American management 
+During the 1920s and 1930s, management was applied to many more areas and aspects of the manufacturing business. decentralization, for instance, arose to combine the advantages of bigness and the advantages of smallness within one enterprise.  Accounting went from "bookkeeping" to analysis and control. Planning grew out of the "Gantt charts" designed in 1917 and 1918 to plan war production; and so did the use of analytical logic and statistics, which employ quantification to convert experience and intuition into definitions, information, and diagnosis.  Marketing evolved as a result of applying management concetps to dstribution and selling.  Moreover, as early as the mid-1920s  and early 1930s, some American management ...
 
 [the rest is a screenshot...]
 
 ---
 
-## A Philosophy of Management
-Essential Drucker, pp94
+#### "The Organisation That Fits the Task"
 
-What the business enterprise needs is a principle of management that will give full scope to individual strength _and responsibility_, and at the same time give common direction of vision and effort, establish team work, and harmonize the goals of the individual with the commonweal.
+Note:
+Essential Drucker, pp57
 
-The only principle that can do this is management by objectives _and self-control_.  It makes the commonweal of every manager.  (Is everyone a manager?)  It substitutes for control from the outside the stricter, and more exacting and more effective control from the inside. It motivates the manager to action not because somebody tells him to do something, or talks him into doing it, but because the objective tasks of his task demand it.  He acts not because somebody wants him to but because he himself decides that he has to - he acts, in other words, as a free man.
+"The pioneers of management a century ago were right, _Organisational structure is needed._ The modern enterprise - whether business, civil service, university, hospital, large church or military - needs organisation just as any bioliogical organization beyond the amoeba needs structure. But the pioneers were wrong in their assumption that there is - or should be - one right organization. Just as there are a great number of different structures for biological organizations, so there are a number of organizations for the social organism that is the modern institution."
+
+"Instead of searching for the right organisation, management needs to learn to look for, to develop, to test **the organisation that fits the task**"
 
 ---
 
-## "The Task is to Lead People"
+### (What is _really_ there)
+
+Note:
+What is _really_ there?
+
+---
+
+## _So if not that, what?_
+
+Note:
+META: Linking the first section - removal of things - with the next two sections - the putting of other things back in their place.
+
+Hierarchy had absorbed a lot of responsibility - control, comms, progression / development. When it sheds this, where does it go?
+
+---
+
+#### "The Task is to Lead People"
 Essential Drucker, pp61
 
 One does not "manage" people
@@ -110,24 +130,152 @@ And the goal is to make productive the specific strengths and knowledge of each 
 
 ---
 
-## "The Organisation That Fits the Task"
-Essential Drucker, pp57
+#### "Make people capable of joint performance"
 
-"The pioneers of management a century ago were right, _Organisational structure is needed._ The modern enterprise - whether business, civil service, university, hospital, large church or military - needs organisation just as any bioliogical organization beyond the amoeba needs structure. But the pioneers were wrong in their assumption that there is - or should be - one right organization. Just as there are a great number of different structures for biological organizations, so there are a number of orgsnizations for the social organism that is the modern institution."
+Note:
+What is the task of management?
 
-"Instead of searching for the right organisation, management needs to learn to look for, to develop, to test **the organisation that fits the task**"
+Drucker: 
+"To be sure, the fundamental task of management remains the same: to make people capable of joint performance through _common goals, common values, the right structure, and the training and development they need to perform and to respond to change_."
 
 ---
 
-### "The End of Hierarchy"
+## ***Take Permission***
+
+---
+
+### What you see around you
+
+Note: 
+Red organisations: ...
+
+---
+
+#### "The End of Hierarchy(?)"
+
+Note:
+[We're now going to point out that Drucker wasn't 100% prescient...]
+
 Essential Drucker, pp. 55
 
-"one hears a great deal today about 'the end of hierarchy.' This is blatant nonsense. In any institution there has to be a final authority, that is 'a boss' - soneone who can make the final decisions and who can expect them to be obeyed. In a situation of common peril - and every institution is likely to encounter it sooner or later - survival of all depends on clear command. If the ship goes down, the captain does not call a meeting, the captain gives an order., must know exactly where to go and what to do, and do it without 'participation' and argument. 'Hierarchy,' and the unquestioning acceptance of it by everyone in the organization, is the only hope in a crisis.
+"one hears a great deal today about 'the end of hierarchy.' This is blatant nonsense. In any institution there has to be a final authority, that is 'a boss' - soneone who can make the final decisions and who can expect them to be obeyed. In a situation of common peril - and every institution is likely to encounter it sooner or later - survival of all depends on clear command. If the ship goes down, the captain does not call a meeting, the captain gives an order, must know exactly where to go and what to do, and do it without 'participation' and argument. 'Hierarchy,' and the unquestioning acceptance of it by everyone in the organization, is the only hope in a crisis.
 
 "Other situtaions within the same institution require deliberation. Others still require teamwork - and so on.
 
-""
+---
 
+#### "I Intend To"
+
+Note:
+[Turn the Ship Around!]
+
+---
+
+### (History)
+
+Note:
+History / Facts
+
+---
+
+### (What is _really_ there)
+
+Note:
+What is _really_ there
+
+---
+
+#### A Philosophy of Management (The Return)
+
+Note:
+Essential Drucker, pp94
+"What the business enterprise needs is a principle of management that will _give full scope to individual strength and responsibility_, and at the same time give common direction of vision and effort, establish team work, and harmonize the goals of the individual with the commonweal."
+
+---
+
+## ***Continually Re-Align***
+
+Note:
+With no fixed hierarchy, what/who aligns and guides?
+
+---
+
+### What you see around you
+
+Note:
+Red organisations: ...
+
+---
+
+### (History)
+
+Note:
+History / Facts
+
+---
+
+#### A Philosophy of Management (The Return)
+
+Note:
+Essential Drucker, pp94
+"What the business enterprise needs is a principle of management that will give full scope to individual strength and responsibility, and at the same time _give common direction of vision and effort, establish team work, and harmonize the goals of the individual with the commonweal_.
+
+The only principle that can do this is management by objectives _and self-control_.  It makes the commonweal of every manager.  (Is everyone a manager?)  It substitutes for control from the outside the stricter, and more exacting and more effective control from the inside. It motivates the manager to action not because somebody tells him to do something, or talks him into doing it, but because the objective tasks of his task demand it.  He acts not because somebody wants him to but because he himself decides that he has to - he acts, in other words, as a free man."
+
+---
+
+### (What is _really_ there)
+
+Note:
+What is _really_ there
+
+---
+
+#### "Make people capable of joint performance" (Return)
+
+Note:
+Drucker: 
+"To be sure, the fundamental task of management remains the same: to make people capable of joint performance through common goals, common values, the right structure, and the training and development they need to perform and to respond to change. But the very meaning of this task has changed, if only because the performance of management has converted the workforce from one comprised of unskilled labourers to one of highly educated knowledge workers."
+
+---
+
+## Conclusions
+
+Note:
+Trust and openness
+
+What is the new design? Thats up to you. 
+(But please don't just copy the next thing blindly - e.g. Spotify. Look at your needs, experiment, and build things.  Then constantly refactor...)
+
+---
+
+**************ORIGINAL BRAIN DUMPS BELOW HERE...*****************
+
+---
+
+# A Moment of Clarity
+
+Note:
+THIS IS THE HIGHLY PERSOAL PIECE WHERE I SELL THE IDEAS THAT "WHAT YOU THINK YOU KNOW FROM COMMON SENSE" AND "WHAT EXPERTS TELL YOU IS THE CASE" MIGHT BOTH BE WRONG.
+
+
+---
+
+# I _shouldn't_ be a good Dev Lead
+
+Note:
+
+
+---
+
+# A (Secret) History Lesson
+
+Note:
+I'm not just making all this stuff up. I did my research too
+I'm not just envious of Netflix and Spotify and Steam
+
+Summarise DRUCKER
+Then bring in GOLDRATT
 
 ---
 
@@ -179,10 +327,10 @@ Working within this structure was how I'd spent my entire working life.  It was 
 
 
 What do we get from hierarchy?
-we get power. 
-we get resources.
+we get power. (hiring, firing, promotion, disciplinary)
+we get resources. (budgets)
 we get influence. 
-we get access. 
+we get access. (meetings, information, processes)
 we get recognition. 
 we get impact. 
 we get responsibility. 
@@ -234,7 +382,7 @@ but this was hard, and it sucked too.
 
 It was hard because I had all the information needed to do the thing. Plus I was probably good at it.
 
-It sucked because the way to solve this first problem was to hand off my sucky jobs to people.  But thats a terrible thing.  It's a classic example of "shit rolling downhill".  To make my life better I make the lives of those below me worse.  Plus this reinforces the hierarchy.  I can;t delegate to those parallel to me. Thats organising, not delegating.  I can only give it to those over whom I have power.  By by delegating I'm saying "I ama making you do this."  Even if you are a good boss, and do all the right things about delegating (you took a course or read a book) you're still playing in the same system.
+It sucked because the way to solve this first problem was to hand off my sucky jobs to people.  But that's a terrible thing.  It's a classic example of "shit rolling downhill".  To make my life better I make the lives of those below me worse.  Plus this reinforces the hierarchy.  I can;t delegate to those parallel to me. Thats organising, not delegating.  I can only give it to those over whom I have power.  By by delegating I'm saying "I ama making you do this."  Even if you are a good boss, and do all the right things about delegating (you took a course or read a book) you're still playing in the same system.
 
 What you need to do is _change the system_.
 
@@ -253,11 +401,18 @@ The problem is training (and experience) in these skills is frequently gate-kept
 
 The idea conjoured up by the term "delegation" is one which is predicated on the existence of hierarchy.
 
-The hierarchy is the source of decisions.  It is the source of control. If something is significant, then you need to go up the hierarchy to get that decision.  The hierarchy's job is to keep things stable and aligned.
+The hierarchy is the source of decisions.  It is the source of control. If something is significant, then you need to go up the hierarchy to get that decision.  The hierarchy's job is to keep things stable and aligned. Your managers job is to tell you what to do.
+
+What about enlightened management?  That's what you hear about.  "How to delegate effectively". You hear about the "servant leader".  You can go on great courses and read books about how to lead rather than managing.  Even the great ones.  Generous, empathetic, attentive to others. Push decisions down to the front line.  Can be made without management approval.
 
 But is that necessary?  Because as you go up the hierarchy you lose CONTEXT.  You have control, but you have slower, less contextual decisions.
 
-CONTROL
+
+Make desicions that dramatically affect _your_ live.
+
+## Reinventing Organisations
+
+"Green Organisations n particular dicate much time and money toward training to help new managers al gracefully with power and delegate much of it to their subordinates." 
 
 DECISIONS
 
@@ -273,6 +428,27 @@ WHAT ABOUT THE BIG DECISIONS? (c.f. Drucker and Netflix going to streaming)
 
 # Process and Control (Kill Bureaucracy!)
 
+WHAT IS THE FOCUS OF THIS SECTION?
+
+
+Guiding and controlling decision-making.
+
+CONTROL
+
+C.f. Creativity Inc.
+
+Trust rather than rules and policies.
+
+Values-driven.  We shift from external to internal yard-sticks to guide our decision-making
+
+"Does this decision seem right? Am I being true to myself? Is this in line with who I sense I'm called to become? Am I being of service to the world?" - Reinventing Organisations.
+
+"Teal is happy to tap into all the domains of knowing. There are insights to be gained from analytical approaches. There is also wisdom to be fond in emotions if we learn to inquire into their significance." - Reinventing Organisations.
+
+
+Self organising, but also **self-governing**.
+
+
 Note:
 Self-organisation beyond Sprint-Planning leads to chaos - what if we brought our whole selves to work?
 ACCEPTED WISDOM SAYS:
@@ -282,7 +458,11 @@ NETFLIX CULTURE DECK
 NETFLIX CONSTANTLY TRYING TO REMOVE IT
 NETFLIX OPENNESS
 NETFLIX SCALING
-Near Enemy!: 
+Near Enemy!: Consensus!
+
+ADVICE PROCESS
+
+Decisions
 
 ---
 
