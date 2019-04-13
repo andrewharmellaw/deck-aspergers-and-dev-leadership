@@ -3,6 +3,20 @@
 
 ---
 
+(Bit in between the first part of the story and the relate to everyone...)
+
+What's the proof? I shouldn't be good at this (these things shouldn't work) 
+
+But I am, (and they do)! 
+
+---
+
+Rhetorical Style: Mark Anthony's Address? "I come not to bury Caesar but to praise him") 
+
+THIS NEEDS TO BE PLAYED UP TO IN THE ABSTRACT
+
+---
+
 # A Moment of Clarity
 
 Note:
