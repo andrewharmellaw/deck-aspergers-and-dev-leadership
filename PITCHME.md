@@ -8,8 +8,22 @@
 Note:
 I'm Aspergers.
 I was diagnosed at 40 - up until then I'd thought I was "normal"
-Suddenly I had a different lense to look at everything through
+
+
+"this is how it is"  "this is what we do"
+
+I'd learned to follow to fit in.
+I'd 
+
+
+Suddenly I had a different lense to look at everything through.  Had the conclusions i'd come towhat I thought I'd experienced really happened that way?
+
+I'd been "passing" - a phrase ASD (and Trans people incidentally) use to describe "fitting in" with society's norms. What is more I'd not known it.  Now I asked myself, what had _really_ been happening all those years?
+
+I looked back at history - significant events (SUCH AS?) - and replayed them in my mind.  What had _really_ happened at the time?
+
 I went first to what the cliches and "common knowledge" were about Aspergers - I was in denial. This couldn't be the case, could it?
+
 Then I went to the experts - the cliches must be wrong. But this was largely written by people who weren't Aspergers themselves.  At best, their diagnises were at a degree removed fom the lived experience, and the rationalisations, derived from the base observations jumped to conclusions and resulted in mischacterisations.
 
 EXAMPLES?
