@@ -1,9 +1,45 @@
 # Aspergers and Dev Leadership
 ### Some Surprising Lessons
 
+Note:
+Rhetorical Style: Mark Anthony's Address? "I come not to bury Caesar but to praise him") 
+
+THIS NEEDS TO BE PLAYED UP TO IN THE ABSTRACT
+
 ---
 
 ## Me: Before and After 40
+
+---
+
+For 40 years I didnt know I was aspergers
+
+I had spent 40 years knowing deep down that my sensory, emotional and intellectual experiences were a bit different from everyone elses.
+But I'd dismissed these as artefacts, as blips, and worked really hard to learn from everyone else
+
+I'd learned to "pass".
+
+But then things got to breaking point.  Situations arose where it became clear that things were different, and so I got diagnosed.
+
+This wasn;t a bad thing - it was the complete opposite.  But I had to unlearn.  And what is more I had to learn things I knew nothing about - i learned things which upset me, and I learned things which made me happy.  I learned about history and i learned about people's lved experience. 
+
+And I had to introspect (because ASD is _very_ different in people)
+
+It transformed me.
+
+---
+
+There's another part to the story
+
+Based on what I _thought_ I knew about people with Aspergers (prior to doing my reading) - the "common knowledge" - I should be a terrible team lead and dev team manager.
+
+But I was good at it.
+
+And not only was I good at it, I *loved* it.  
+
+Hmmm
+
+---
 
 (Bit in between the first part of the story and the relate to everyone...)
 
@@ -13,9 +49,13 @@ But I am, (and they do)!
 
 ---
 
-Rhetorical Style: Mark Anthony's Address? "I come not to bury Caesar but to praise him") 
+What I want to ask is this
+What if something similar is happening to ALL of us in our working lives?
 
-THIS NEEDS TO BE PLAYED UP TO IN THE ABSTRACT
+ - what if we have all been missing the signals right in front of us?
+ - what if the difficulties we feel are real difficulties?  What if the things we see are really there?
+ - what if we're all "passing" 
+ - what would we like to know if we were "diagnosed?"
 
 ---
 
